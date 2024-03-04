@@ -6,15 +6,15 @@
 *xila*
 
 > **Una llista:**
-1. hola
-2. se
-   1. se2
-3. sd
+1. Despertar
+2. Dutxar-se
+   1. net dents
+3. menjar
 
-- nabu
-- xila
--    hola
-- que
+- Peres
+- Figues
+- Magranes
+- Pebrots
 
 [mare de deu](https://ca.wiktionary.org/wiki/butzes)
 
