@@ -8,8 +8,8 @@
 > **Una llista:**
 1. Despertar
 2. Dutxar-se
-   1. net dents
-3. menjar
+   1. menjar
+3. net dents
 
 - Peres
 - Figues
